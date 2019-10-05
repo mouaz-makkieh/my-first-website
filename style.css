@@ -1,11 +1,11 @@
 body
 {
-  background-color:gray;
+  background-color:rgb(128, 128, 128);
 }
 
 h1
 {
- color:blue;
+ color:yellowgreen;
   font-size:xx-large;
-  font-family:'calibri';
+  font-family:'';
 }
